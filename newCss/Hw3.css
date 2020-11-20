@@ -1,0 +1,13 @@
+body{
+    background-image: url(../Images/paper.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+p{
+    font-family: Arial;
+    font-size: 80%;
+    font-kerning: normal;
+}
+p1,p2{
+    font-weight: 500;
+}

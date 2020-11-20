@@ -1,0 +1,37 @@
+
+
+body{
+    background-color: antiquewhite;
+}
+table{
+    border: 1px solid black;
+    width: 70%;
+    height: 300px;
+    margin:200px ;
+    background-color: azure;
+}
+td{
+    text-align: center;
+    font-family: sans-serif 'Times New Roman';
+    cursor: pointer;
+}
+
+.fa-check-circle{
+    color: greenyellow;
+}
+.fa-check-circle:hover{
+    color: red;
+}
+.fa-frown{
+    color: black;
+}
+.fa-frown:hover{
+    color: orangered;
+}
+
+.fa-star{
+    color: blue;
+}
+.fa-star:hover{
+    color: black;
+}

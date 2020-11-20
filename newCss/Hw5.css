@@ -1,0 +1,70 @@
+body{
+    background-color: skyblue;
+    background-size: cover;
+    overflow-y: scroll;
+    right: 30px;
+    left: 30px;
+    height: 200vh;
+}
+table{
+    position: fixed;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+td{
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 10px 123px 10px 125px;
+    vertical-align: middle;
+    text-align: center;
+}
+.name h1{
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-right: 30px;
+}
+div{
+    font-size: 15px;
+    clear: both;
+}
+ul{
+    font-family:'Times New Roman', serif;
+    font-style: italic;
+}
+
+
+.rotor a:active{
+    text-decoration-color: blue;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+.rotor1 h2:active{
+    text-decoration-color: blue;
+}
+
+.rotor2 h2:active{
+    text-decoration-color: blue;
+}
+
+
+
+.rotor3 h2:active{
+    text-decoration-color: blue;
+}
+.rotor4 h2:active{
+    text-decoration-color: blue;
+}
+
+
+

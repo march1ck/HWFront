@@ -1,0 +1,64 @@
+caption{
+    font-size: 150%;
+    font-family: italic serif;
+}
+
+table{
+    width: 30%;
+    height: 200px;
+    border:solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 0px 20px 0px 20px;
+    vertical-align: middle;
+    text-align: center;
+    border: 2px solid black; 
+}
+
+
+.mine{
+    background-color: yellow;
+    font-family: serif;
+    border: 2px solid black; 
+}
+
+.Courses{
+    background-color: darkgoldenrod;
+    height: 200vh;
+    position: relative;
+    overflow: scroll;
+    width: 90%;
+    right: 30px;
+    left: 30px;
+    border: solid 2px red;       
+}
+.course-one{
+    font-family: monospace;
+    font-size: 30px;
+    background-color: aquamarine;
+    left: 0px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    
+    
+}
+.course-second{
+    font-family: monospace;
+    font-size: 30px;
+    background-color: chartreuse;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    left: 0;
+}
+.course-third{
+    font-family: monospace;
+    font-size: 30px;
+    background-color: crimson;
+    position:relative;
+    top: 0;
+    
+}
